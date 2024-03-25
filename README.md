@@ -20,5 +20,3 @@ Navigate to the post where you wish to display the view count and paste the shor
 * <b>[ed_post_view_count]</b> :  Adding the shortcode to your post will display the current post view count. 
 
 * <b>[ed_post_view_count id="49"]</b> : If you wish to show the view count for a specific post, use [ed_post_view_count id="49"], replacing "49" with the ID of the post you're targeting.
-
-![Post View Count](https://prnt.sc/p7zkHWpSnZSV)
