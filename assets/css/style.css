@@ -1,0 +1,26 @@
+.edpvc_box {
+    border: 1px solid #e8eaee;
+    padding: 10px;
+    margin: 10px 0px;
+    border-radius: 5px;
+    line-height: 1.2;
+    max-width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+span.edpvc-title {
+    font-size: 20px;
+    font-weight: 700;
+    color: #222;
+}
+
+span.edpvc-subtitle {
+    color: #8b8b92;
+    font-size: 16px;
+}
+
+span.edpvc-count {
+    font-size: 34px;
+    font-weight: 700;
+}
